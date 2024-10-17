@@ -1,6 +1,6 @@
 {
-  "name": "mosaic-react",
-  "version": "0.1.0",
+  "name": "ems",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
